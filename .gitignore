@@ -132,3 +132,6 @@ dist
 
 # transpile code
 dist
+
+# stryker temp files
+.stryker-tmp
